@@ -10591,8 +10591,22 @@
       "extensions": {
         "website": "https://www.kurzdigital.com"
       }
-    }
-  ],
+    },
+    {
+      "chainId": 101,
+      "address": "9ysRLs872GMvmAjjFZEFccnJBF3tYEVT1x7dFE1WPqTY",
+      "symbol": "VRNT",
+      "name": "Variant",
+      "decimals": 8,
+      "logoURI": "https://i.postimg.cc/FKZmqwXL/logo.jpg",
+      "tags": [
+        "social-token",
+        "vrnt"
+      ],
+      "extensions": {
+        "website": "https://www.variantresearch.io",
+      }
+    },
   "version": {
     "major": 0,
     "minor": 2,
